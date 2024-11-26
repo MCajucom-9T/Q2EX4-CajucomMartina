@@ -1,0 +1,28 @@
+body {
+	background-color: #999AC6;
+}
+
+.clear {
+	background-color: rgb(0, 0, 0, 0);
+}
+
+.container {
+	background-color: #D2D5DD;
+	padding: 5px;
+	margin-top: 50px;
+	font-family: "Eagle Lake", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h2 {
+	font-family: "Bokor", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+.btn:hover {
+	background-color: #93BEDF;
+	border-color: #93BEDF;
+}
